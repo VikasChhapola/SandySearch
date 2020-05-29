@@ -1,0 +1,22 @@
+
+#resource https://textract.readthedocs.io/en/stable/python_package.html
+#resource for reading pdf through python https://www.geeksforgeeks.org/working-with-pdf-files-in-python/
+#resource geeksforgeeks
+#FOR FILES TYPES DOC PPT PDF TEXT XLS also in files names
+
+#resource https://docs.python.org/3/library/csv.html
+
+#resource https://stackoverflow.com/questions/39418620/extracting-text-from-multiple-powerpoint-files-using-python
+#resouce https://stackoverflow.com/questions/319426/how-do-i-do-a-case-insensitive-string-comparison
+#resource https://stackoverflow.com/questions/58754860/cmd-opens-window-store-when-i-type-python
+
+#resource https://www.geeksforgeeks.org/file-searching-using-python/
+#resource https://www.geeksforgeeks.org/python-shutil-copyfile-method/
+#pip install python-pptx
+# importing required modules 
+
+
+# for copy method resource https://www.techbeamers.com/python-copy-file/
+
+#read text file https://stackoverflow.com/questions/18256363/how-do-i-print-the-content-of-a-txt-file-in-python
+# excluding directories in os walk https://stackoverflow.com/questions/19859840/excluding-directories-in-os-walk
